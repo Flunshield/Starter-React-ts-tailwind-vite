@@ -5,6 +5,10 @@ Ce document fournit toutes les informations nécessaires pour installer, lancer,
 
 ## Section Installation
 
+``
+Rennomer le fichier .env-example en .env
+``
+
 Avant de lancer le projet, installez toutes les dépendances nécessaires :
 
 ```bash
@@ -12,6 +16,8 @@ npm install
 ```
 
 ## Section Lancement
+
+Avant de démarrer l'environnement, renommer le fichier ``env-example`` en ``.env``
 
 Pour démarrer l'environnement de développement, exécutez :
 
